@@ -33,7 +33,7 @@ Future<void> loadConfig() async {
       final githubRes = await http
           .get(
             Uri.parse(
-              "https://raw.githubusercontent.com/Yamadaverse/API-OMNIX/main/config.json",
+              "https://raw.githubusercontent.com/Kontol120H/API-SDX/main/config.json",
             ),
           )
           .timeout(const Duration(seconds: 8));
