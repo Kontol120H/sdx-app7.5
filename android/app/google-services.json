@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "156720077102",
+    "firebase_url": "https://omnix-server-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "omnix-server",
+    "storage_bucket": "omnix-server.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156720077102:android:390ec84ba77677b9b282bf",
+        "android_client_info": {
+          "package_name": "com.omnix.genz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJy6_nWl7GkDk_FLCJDuYy408nNoWdPEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
