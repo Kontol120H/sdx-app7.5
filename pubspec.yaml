@@ -47,7 +47,7 @@ dependencies:
   hive_flutter: ^1.1.0
   flutter_secure_storage: ^10.0.0
   flutter_svg: ^2.1.0
-  dartssh2: ^2.9.1
+  dartssh2: 2.12.0
   # Media and player related
   just_audio: ^0.10.1
   video_player: ^2.9.2
