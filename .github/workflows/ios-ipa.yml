@@ -28,6 +28,9 @@ jobs:
       - name: Flutter version
         run: flutter --version
 
+      - name: Disable Swift Package Manager
+        run: flutter config --no-enable-swift-package-manager
+
       - name: Get dependencies
         run: flutter pub get
 
